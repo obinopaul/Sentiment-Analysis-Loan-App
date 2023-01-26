@@ -16,7 +16,7 @@ seaborn
 matplotlib                        
 
 Usage                                   
-Clone this repository to your local machine.
+Clone this repository to your local machine.                                            
 git clone https://github.com/obinopaul/Sentiment-Analysis-Loan-App.git                                      
 
 Install the required packages.                                                        
