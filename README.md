@@ -1,4 +1,4 @@
-Sentiment Analysis on Digital Lending platforms in Nigeria
+# Sentiment Analysis on Digital Lending platforms in Nigeria
 ==============================
                                                                     
 This study was inspired by a [publication](https://www.premiumtimesng.com/news/headlines/499999-investigation-how-digital-loan-providers-breach-data-privacy-violate-rights-of-nigerians.html) by Premium Times highlighting how digital loan providers breach data privacy, and violate rights of Nigerians.
@@ -6,7 +6,7 @@ The sentiment analysis firsts extracts all the reviews from three digital lendin
                                                                                       
 This repository contains the code and documentation for a sentiment analysis project on digital lending platforms in Nigeria. The project uses natural language processing techniques to analyze customer reviews of digital lending platforms in Nigeria, and to understand the overall sentiment of customers towards these platforms.
 
-Requirements                                      
+## Requirements                                      
 Python 3.x                        
 NLTK                                   
 pandas                             
@@ -15,21 +15,25 @@ scikit-learn
 seaborn               
 matplotlib                        
 
-Usage                                   
+## Usage                                   
 Clone this repository to your local machine.                                            
+```bash     
 git clone https://github.com/obinopaul/Sentiment-Analysis-Loan-App.git                                      
+```      
 
-Install the required packages.                                                        
+## Install the required packages.                                                        
+```bash    
 pip install -r requirements.txt                         
-
+```    
+    
 Run the Jupyter notebook file sentiment_analysis.ipynb to train the model and make predictions on new data.             
 The notebook contains detailed instructions and explanations of the code.                             
 
-Data
-The data used in this project is a collection of customer reviews of digital lending platforms in Nigeria. The data was collected from customer reviews of six lending platforms (Quickcredit, Carbon, Newcredit, Fairmoney, Branch, and Palmcredit) on both applestore and googleplay store where their application is hosted.
+## Data
+The data used in this project is a collection of customer reviews of digital lending platforms in Nigeria. The data was collected from customer reviews of six lending platforms ( 'Quickcredit' , 'Carbon' , 'Newcredit' , 'Fairmoney' , 'Branch', and 'Palmcredit' ) on both applestore and googleplay store where their application is hosted.
 
-Results                                                                 
+## Results                                                                 
 The model achieved an accuracy of 80% on the test set. Additionally, the model was able to classify positive, negative and neutral sentiments with good precision and recall. The results are visualized using various plots and charts.
                         
-Note                                                                                
+## Note                                                                                
 This is a simplified version of the Sentiment Analysis problem, just for demonstration purposes. In the real world scenario, the dataset would be much more complex and the model would have to be fine-tuned and optimized to work with it.
