@@ -30,7 +30,7 @@ Run the Jupyter notebook file sentiment_analysis.ipynb to train the model and ma
 The notebook contains detailed instructions and explanations of the code.                             
 
 ## Data
-The data used in this project is a collection of customer reviews of digital lending platforms in Nigeria. The data was collected from customer reviews of six lending platforms: 'Quickcredit'  'Carbon'  'Newcredit'  'Fairmoney'  'Branch' and 'Palmcredit' on both applestore and googleplay store where their application is hosted.
+The data used in this project is a collection of customer reviews of digital lending platforms in Nigeria. The data was collected from customer reviews of six lending platforms: 'Quickcredit',  'Carbon',  'Newcredit',  'Fairmoney',  'Branch', and 'Palmcredit' on both applestore and googleplay store where their application is hosted.
 
 ## Results                                                                 
 The model achieved an accuracy of 80% on the test set. Additionally, the model was able to classify positive, negative and neutral sentiments with good precision and recall. The results are visualized using various plots and charts.
