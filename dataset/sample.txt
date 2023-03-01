@@ -1,1 +1,5 @@
-Run the code in the jupyter notebook in the following directory (notebooks/Sentiment Analysis .ipynb)
+Run the code in the jupyter notebook to extract up-to date customer reviews, or click the link below to download data from my google drive
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+https://drive.google.com/drive/folders/19u0MjSdtPO6W6Z23nvdZqiIpoWry9l8g?usp=share_link
+-------------------------------------------------------------------------------------------------------------------------------------------
